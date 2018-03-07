@@ -48,7 +48,7 @@ Github är en webbaserad hosting service och versionshanteringssystem som använ
 
 #### Jekyll
 
-Som många andra bloggplattformar så skiljer sig Jekyll åt på ett par olika sätt. Det första är att Jekyll inte använder sig av någon databas att förvara innehållet i utan alla sidor och inlägg är statiska, till skillnad för till exempel Wordpress som dynamisk. Att publicera inlägg på Github med Jekyll är inte lika lätt som att publicera inlägg på de andra tjänsterna jag nämnt, och då menar jag även Wordpress och Blogger. Eftersom Github inte är tänkt att vara en plattform för publicering av text i första hand utan vara en plats för mjukvara där du har versionshantering så "Commitar" du dina filer till Github genom en terminal, i alla fall om du som jag använder Linux. [Jekyll](https://i.imgur.com/HK76Dbv.png)
+Som många andra bloggplattformar så skiljer sig Jekyll åt på ett par olika sätt. Det första är att Jekyll inte använder sig av någon databas att förvara innehållet i utan alla sidor och inlägg är statiska, till skillnad för till exempel Wordpress som dynamisk. Att publicera inlägg på Github med Jekyll är inte lika lätt som att publicera inlägg på de andra tjänsterna jag nämnt, och då menar jag även Wordpress och Blogger. Eftersom Github inte är tänkt att vara en plattform för publicering av text i första hand utan vara en plats för mjukvara där du har versionshantering så "Commitar" du dina filer till Github genom en terminal, i alla fall om du som jag använder Linux. ![Jekyll](https://i.imgur.com/HK76Dbv.png)
 
 #### Atom
 
